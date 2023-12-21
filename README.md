@@ -1,31 +1,16 @@
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w1oves" alt="w1oves" /> </p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w1oves&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="w1oves" /></p>
--->
-
 ### Hi there 👋
 
-My research interests are in computer vision, image process and ML system.
+- 🌱 I'm [Zhixiang Wei](), a Ph.D. student in USTC.
+- 💬 I'm currently looking for collaborations or internship positions; feel free to contact me.
 
-Page: https://w1oves.github.io/
-
-📫 E-mail: w1oves@mail.ustc.edu.cn
-
-💬 **I am looking for internships related to CV**
+#### Research Projects
+* 🔥 Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein).
+* Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)
+* Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
+* Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
 
 <!--
-
- 💬 **I am looking for internships related to CV**
-
-
-**w1oves/w1oves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhixiang wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+-->
