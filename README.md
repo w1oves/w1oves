@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm [Zhixiang Wei](), a Ph.D. student in USTC.
-- 💬 I'm currently looking for collaborations or internship positions; feel free to contact me.
+- 💬 I'm currently looking for collaborations or internship positions; feel free to contact me:zhixiangwei@mail.ustc.edu.cn.
 
 #### Research Projects
 * 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein).
