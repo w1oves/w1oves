@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm [Zhixiang Wei](), a Ph.D. student in USTC.
+- 🌱 I'm [Zhixiang Wei](w1oves.github.io), a Ph.D. student in USTC.
 - 💬 I'm currently looking for collaborations or internship positions; feel free to contact me: zhixiangwei@mail.ustc.edu.cn.
 
 #### Research Projects
