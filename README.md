@@ -4,7 +4,7 @@
 - 💬 I'm currently looking for collaborations or internship positions; feel free to contact me.
 
 #### Research Projects
-* 🔥 Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein).
+* 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein).
 * Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)
 * Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
 * Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
