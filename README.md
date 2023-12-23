@@ -4,10 +4,10 @@
 - 💬 I'm currently looking for collaborations or internship positions; feel free to contact me: zhixiangwei@mail.ustc.edu.cn.
 
 #### Research Projects
-* 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://arxiv.org/pdf/2312.04265.pdf) [![](https://img.shields.io/github/stars/w1oves/Rein?style=social&label=Code+Stars)](https://github.com/w1oves/Rein).
-* Night-time and full-time semantic segmentation: [DTP](https://arxiv.org/pdf/2307.09362.pdf) [![](https://img.shields.io/github/stars/w1oves/DTP?style=social&label=Code+Stars)](https://github.com/w1oves/DTP).
-* Domain Adaptive Semantic Segmentation: [DDB](https://arxiv.org/pdf/2209.07695.pdf) [![](https://img.shields.io/github/stars/xiaoachen98/DDB?style=social&label=Code+Stars)](https://github.com/xiaoachen98/DDB).
-* Discriminator-free Adversarial Domain Adaption: [DALN](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.pdf) [![](https://img.shields.io/github/stars/xiaoachen98/DALN?style=social&label=Code+Stars)](https://github.com/xiaoachen98/DALN).
+* 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://arxiv.org/pdf/2312.04265.pdf). [![](https://img.shields.io/github/stars/w1oves/Rein?style=social&label=Code+Stars)](https://github.com/w1oves/Rein)
+* Night-time and full-time semantic segmentation: [DTP](https://arxiv.org/pdf/2307.09362.pdf). [![](https://img.shields.io/github/stars/w1oves/DTP?style=social&label=Code+Stars)](https://github.com/w1oves/DTP)
+* Domain Adaptive Semantic Segmentation: [DDB](https://arxiv.org/pdf/2209.07695.pdf). [![](https://img.shields.io/github/stars/xiaoachen98/DDB?style=social&label=Code+Stars)](https://github.com/xiaoachen98/DDB)
+* Discriminator-free Adversarial Domain Adaption: [DALN](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.pdf). [![](https://img.shields.io/github/stars/xiaoachen98/DALN?style=social&label=Code+Stars)](https://github.com/xiaoachen98/DALN)
 
 <!--
 **zhixiang wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
