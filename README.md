@@ -4,10 +4,10 @@
 - 💬 I'm currently looking for collaborations or internship positions; feel free to contact me: zhixiangwei@mail.ustc.edu.cn.
 
 #### Research Projects
-* 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein).
-* Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)
-* Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
-* Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
+* 🔥 Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation: [Rein](https://github.com/w1oves/Rein)[![](https://img.shields.io/github/stars/w1oves/Rein?style=social&label=Rein+Stars)](https://github.com/w1oves/Rein).
+* Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)[![](https://img.shields.io/github/stars/w1oves/DTP?style=social&label=DTP+Stars)](https://github.com/w1oves/DTP).
+* Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)[![](https://img.shields.io/github/stars/xiaoachen98/DDB?style=social&label=DDB+Stars)](https://github.com/xiaoachen98/DDB).
+* Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)[![](https://img.shields.io/github/stars/xiaoachen98/DALN?style=social&label=DALN+Stars)](https://github.com/xiaoachen98/DALN).
 
 <!--
 **zhixiang wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
