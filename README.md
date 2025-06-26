@@ -15,6 +15,8 @@ I sincerely welcome discussions and collaborations. If you're interested, please
 - Google Scholar: [Zhixiang Wei](https://scholar.google.com/citations?user=i5W4i9YAAAAJ&hl=en)
 
 ### 🔥 News
+- *2025.06*: 🔥 Delighted to announce that [HQ-CLIP: Leveraging Large Vision-Language Models to Create High-Quality
+Image-Text Datasets and CLIP Models] were accepted by ICCV 2025!
 - *2024.09*: 🔥 Delighted to announce that [Masked Pre-trained Model Enables Universal Zero-shot Denoiser](https://arxiv.org/abs/2401.14966) were accepted by NeurIPS 2024!
 - *2024.02*: 🔥 Rein is accepted in CVPR 2024! [[Project Page](https://zxwei.site/rein/)]
 
